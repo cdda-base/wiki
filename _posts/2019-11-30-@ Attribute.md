@@ -5,8 +5,8 @@ date: 2019-11-30 23:59:59 +0800
 category: 角色创建
 tags: [入门,属性]
 keywords: 角色属性
-translator: Plse1032
-description: 游戏中最重要也是最基础的机制，关乎角色的一举一动。
+translator: 深白senba
+description: 游戏中最重要也是最基础的机制，关乎角色的一举一动（。
 ---
 
 # 属性
