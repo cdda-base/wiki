@@ -33,7 +33,7 @@ description: 游戏中最重要也是最基础的机制，关乎角色的一举�
 
 每个身体部位所拥有的生命值通常是隐藏的，除非你具有“ [自我认知](http://cddawiki.chezzo.com/cdda_wiki/index.php?title=Self-aware) ”特性。如果躯干或头部的生命值低于1，角色会 [死亡](http://cddawiki.chezzo.com/cdda_wiki/index.php?title=Fun)。如果其他部位（四肢）的生命值低于0，它会[断掉](http://cddawiki.chezzo.com/cdda_wiki/index.php?title=Broken_limb)。断掉的话当然就很难[治疗](http://cddawiki.chezzo.com/cdda_wiki/index.php?title=Broken_limb#How_to_fix_it)啦。
 
-损失的生命值会随着时间慢慢恢复，也可以通过使用医疗物品快速恢复，[睡眠](http://cddawiki.chezzo.com/cdda_wiki/index.php?title=Sleep)期间生命值的恢复速度会加快。如果角色不处于[健康](http://cddawiki.chezzo.com/cdda_wiki/index.php?title=Hidden_stats#Health) 状态，恢复的速度会下降。
+损失的生命值会随着时间慢慢恢复，使用医疗物品包扎可以大大提高恢复速度，[睡眠](http://cddawiki.chezzo.com/cdda_wiki/index.php?title=Sleep)期间生命值的恢复速度会有所提高，但如果不包扎，睡眠时的恢复速度还是相当慢。如果角色不处于[健康](http://cddawiki.chezzo.com/cdda_wiki/index.php?title=Hidden_stats#Health) 状态，恢复的速度会下降。
 
 如果身体部位名称的字体变为<font color='#ff0000'>红色</font>，说明这个身体部位在出血，该部位的生命值会随时间下降。
 
