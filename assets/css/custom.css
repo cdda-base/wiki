@@ -135,3 +135,29 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 /* ~ jpasholk */
+
+table {
+    /* table-layout: fixed !important;  */
+    width: 100% !important;
+    border-collapse:collapse;
+    border:none;
+    /* font-size:0.25rem; */
+}
+
+table tr td,
+table tr th {
+    width:1px;
+    white-space:nowrap;
+    word-break:keep-all; /* 避免长单词截断，保持全部 */
+	border:solid #676767 1px;
+	text-align:center;
+	white-space:pre-line;
+    word-break:break-all !important;
+	word-wrap:break-word !important;
+	display:table-cell;
+	vertical-align:middle !important;
+	white-space: normal !important;
+	height:auto;
+	vertical-align:text-top;
+	padding:2px 2px 0 2px;
+}
