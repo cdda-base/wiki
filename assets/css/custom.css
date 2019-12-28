@@ -385,3 +385,6 @@ font[color='#0000ff'] {
     border-radius: 3px;
     border-right: 11px #5c9541 solid;
 }
+#lv-container{
+    background: white;
+}
