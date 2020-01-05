@@ -1,3 +1,13 @@
+---
+layout: post
+title: 角色创建-角色
+date: 2019-11-30 23:59:59 +0800
+category: 角色
+tags: [入门,角色]
+keywords: 角色
+translator: 深白senba
+description: 游戏中创建角色总编。
+---
 # 角色
 
 在游戏中，玩家控制的角色小“@”是由[属性](https://cddabase.site/wiki/posts/%E8%A7%92%E8%89%B2%E5%88%9B%E5%BB%BA/@-Attribute/index.html)、[特性](https://cddabase.site/wiki/posts/%E8%A7%92%E8%89%B2%E7%89%B9%E6%80%A7/Character-Traits/index.html)和[技能](https://cddabase.site/wiki/posts/%E8%A7%92%E8%89%B2%E7%89%B9%E6%80%A7/Character-Skills/index.html)构成的。这些特征会对玩家的游玩过程产生很重要的影响。其中技能可以被训练，一部分的特性可以通过变异获得，但是角色的基础属性是不变的。好在有些[突变](https://cddabase.site/wiki/posts/%E8%A7%92%E8%89%B2%E7%89%B9%E6%80%A7/%E7%AA%81%E5%8F%98/index.html)和生化插件可以在属性的基础值上进行提升，此外也有不少可以短暂改变属性的手段。[天气](http://cddawiki.chezzo.com/cdda_wiki/index.php?title=Weather)、[状态效果](http://cddawiki.chezzo.com/cdda_wiki/index.php?title=Effecs&action=edit&redlink=1)和[药物](http://cddawiki.chezzo.com/cdda_wiki/index.php?title=Medication)都可以暂时地对属性和特性产生影响。牢记大灾变作为一款rogue-like游戏，作死真的会死，所以能改善属性和特性的有效方法着实不多而且风险颇大。
