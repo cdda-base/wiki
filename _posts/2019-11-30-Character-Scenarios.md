@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 角色创建-场景选择
+title: 角色-场景选择
 date: 2019-11-30 10:00:00 +0800
-category: 角色创建
+category: 角色
 tags: [入门,场景]
 keywords: 场景选择
 translator: 深白senba
