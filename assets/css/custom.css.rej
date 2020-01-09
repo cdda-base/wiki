@@ -1,9 +1,0 @@
-diff a/assets/css/custom.css b/assets/css/custom.css	(rejected hunks)
-@@ -353,6 +353,7 @@
-     }
- }
- 
-+}
- @media screen and (min-width: 769px) {
-     .tile.is-a {
-         -webkit-box-flex: 0;
