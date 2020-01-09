@@ -314,14 +314,7 @@ table tr th {
 }
 
 /* Hotfix for Bulma striping headings of styling */
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-    font-weight: bold;
-}
+
 
 @media screen and (max-width: 768px) {
     .pagination {
